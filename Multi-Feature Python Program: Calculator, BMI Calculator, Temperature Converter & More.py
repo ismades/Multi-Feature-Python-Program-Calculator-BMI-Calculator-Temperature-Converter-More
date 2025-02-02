@@ -1,7 +1,6 @@
 # Loop utama agar menu utama selalu muncul setelah selesai menggunakan fitur
 while True:
     # Menampilkan Menu Utama
-    print("\n=== Operasi Kalkulator, BMI, dan Konversi Suhu ===")
     print("========== Menu Utama ==========")
     print("1. Kalkulator")
     print("2. Sistem Penilaian")
