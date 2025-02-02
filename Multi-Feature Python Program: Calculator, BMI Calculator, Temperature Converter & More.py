@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb  2 11:50:59 2025
-
-@author: user
-"""
 # Loop utama agar menu utama selalu muncul setelah selesai menggunakan fitur
 while True:
     # Menampilkan Menu Utama
