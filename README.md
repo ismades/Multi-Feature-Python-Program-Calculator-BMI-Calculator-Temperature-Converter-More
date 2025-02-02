@@ -29,33 +29,10 @@ This isn't just a basic calculator – it also helps with grading, BMI calculati
 Uses Python loops (while) to keep the menu interactive.
 Implements if-elif-else conditions to execute the correct function.
 
-I built this project to sharpen my Python skills and get comfortable with logic-based programming before moving on to bigger challenges. 🚀
+I built this project to sharpen my Python skills and get comfortable with logic-based programming before moving on to bigger challenges. 
 
-🔧 Technologies Used
-🟢 Python – The core language used to build this interactive CLI application.
-🟢 Conditional Statements & Loops – Using if-elif-else, while, break, and continue for decision-making.
-🟢 Mathematical & Logical Operations – Handling calculations for arithmetic, BMI, and grading.
-🟢 User Input Handling & Validation – Ensuring smooth user interaction and preventing errors.
 
-📌 How to Run This Program
-1️⃣ Clone this repository to your local machine:
 
-sh
-Copy
-Edit
-git clone https://github.com/ismades/Multi-Feature-Python-Program.git
-2️⃣ Navigate to the project directory:
 
-sh
-Copy
-Edit
-cd Multi-Feature-Python-Program
-3️⃣ Run the script in your terminal:
-
-sh
-Copy
-Edit
-python main.py
-That’s it! The program will guide you through different options. 🎉
 
 
